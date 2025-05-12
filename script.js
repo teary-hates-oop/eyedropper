@@ -79,5 +79,4 @@ colorInput.addEventListener("input", copyColor);
 
 // Don't auto-copy on page load
 outputDiv.textContent = `Copied: ${result}`;
-outputDiv.style.color = hex;
 
